@@ -1,5 +1,5 @@
-import { Observable } from 'rxjs/Observable';
-import { Observer } from 'rxjs/Observer';
+import { Observable } from 'rxjs';
+import { Observer } from 'rxjs';
 
 import { AbstractCameraService } from './abstract-camera.service';
 
